@@ -8,6 +8,9 @@ https://wikidocs.net/book/1
 - 파이썬 버전 : 3.11.2
 
 ## 공부 내용
+
+### 자료형
+![image](https://github.com/user-attachments/assets/d788fc9a-42d1-4929-bc44-c7d308e507d8)
 - (24/12/18) BaseType
 - (24/12/19) ListType, TupleType, DictionaryType, SetType, BoolType
 
