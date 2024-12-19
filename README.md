@@ -9,5 +9,5 @@ https://wikidocs.net/book/1
 
 ## 공부 내용
 - (24/12/18) BaseType
-- (24/12/19) ListType, TupleType, DictionaryType
+- (24/12/19) ListType, TupleType, DictionaryType, SetType
 
