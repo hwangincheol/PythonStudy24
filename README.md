@@ -7,6 +7,6 @@ https://wikidocs.net/book/1
 
 - 파이썬 버전 : 3.11.2
 
-- Base (24/12/18)
+- BaseType (24/12/18)
 - TableType (24/12/19)
 
