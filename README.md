@@ -9,5 +9,5 @@ https://wikidocs.net/book/1
 
 ## 공부 내용
 - BaseType (24/12/18)
-- TableType (24/12/19)
+- ListType (24/12/19)
 
