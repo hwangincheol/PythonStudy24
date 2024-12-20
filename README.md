@@ -14,5 +14,6 @@ https://wikidocs.net/book/1
 - (24/12/18) BaseType
 - (24/12/19) ListType, TupleType, DictionaryType, SetType, BoolType, 변수
 
+<br>
 ![image](https://github.com/user-attachments/assets/0101decb-c8b4-4027-aae8-19194f61bbe3)
 - (24/12/20) IfStudy
