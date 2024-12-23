@@ -129,4 +129,4 @@ while True:
     else : totalMoney = totalMoney + int(money)
 
 ```
-- (24/12/23) ForStudy
+- (24/12/23) ForExam
