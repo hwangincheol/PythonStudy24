@@ -20,7 +20,14 @@ https://wikidocs.net/book/1
 - (24/12/20) IfStudy, WhileStudy
 - (24/12/23) ForExam, FunctionExam
 
-ㅇ While 자판기 미션 (24/12/19)
+
+
+
+
+
+
+
+ㅇ While 자판기 미션 (24/12/20)
 ```
 # 미션
 # 관리자가 커피 가겨고가 커피명을 정하고 개수를 입력한다.
