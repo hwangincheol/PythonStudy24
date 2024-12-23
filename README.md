@@ -18,8 +18,9 @@ https://wikidocs.net/book/1
 
 ![image](https://github.com/user-attachments/assets/0101decb-c8b4-4027-aae8-19194f61bbe3)
 - (24/12/20) IfStudy, WhileStudy
+- (24/12/23) ForExam, FunctionExam
 
-ㅇ While 자판기 미션
+ㅇ While 자판기 미션 (24/12/19)
 ```
 # 미션
 # 관리자가 커피 가겨고가 커피명을 정하고 개수를 입력한다.
@@ -129,4 +130,4 @@ while True:
     else : totalMoney = totalMoney + int(money)
 
 ```
-- (24/12/23) ForExam
+
