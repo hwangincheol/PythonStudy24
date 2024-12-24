@@ -13,16 +13,20 @@ https://wikidocs.net/book/1
 ![image](https://github.com/user-attachments/assets/11c14d01-59f5-4cf7-864a-796ddf89242e)
 - (24/12/18) BaseType
 - (24/12/19) ListType, TupleType, DictionaryType, SetType, BoolType, 변수
-
 <br>
 
 ![image](https://github.com/user-attachments/assets/0101decb-c8b4-4027-aae8-19194f61bbe3)
 - (24/12/20) IfStudy, WhileStudy
-- (24/12/23) ForExam, FunctionExam
+- (24/12/23) ForExam
+<br>
+
+![image](https://github.com/user-attachments/assets/7c258bc0-6dff-4b47-8c21-463e2f7642e9)
+- (24/12/23) FunctionExam
 - (24/12/24) FileExam, ClassExam
+<br>
 
-
-
+![image](https://github.com/user-attachments/assets/2a8e8d01-0840-41de-b566-dc487d8ad445)
+- (24/12/24) ClassExam, 모듈, 패키지
 
 
 <br><br><br><br><br><br><br><br><br>
