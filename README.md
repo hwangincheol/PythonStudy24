@@ -8,7 +8,7 @@ https://wikidocs.net/book/1
 - 파이썬 버전 : 3.11.2
 - Colab을 사용하여 예제 학습
   
-## 공부 내용
+## 학습 내용
 
 ![image](https://github.com/user-attachments/assets/11c14d01-59f5-4cf7-864a-796ddf89242e)
 - (24/12/18) BaseType
